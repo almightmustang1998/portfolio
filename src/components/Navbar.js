@@ -53,10 +53,10 @@ const menuItems = [
         listText: "Resume",
         listPath: "/resume"
     },
-    {
-        listIcon: <Apps/>,
-        listText: "Portfolio"
-    },
+    //{
+     //   listIcon: <Apps/>,
+     //   listText: "Portfolio"
+    //}, took out because i do not plan on working on the portfolio setion for a while
     {
         listIcon: <ContactMail/>,
         listText: "Contact"
